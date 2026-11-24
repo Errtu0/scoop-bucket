@@ -1,19 +1,19 @@
 {
-    "version": "0.3.0",
+    "version": "0.3.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Errtu0/Tensgo/releases/download/v0.3.0/tensgo_0.3.0_windows_amd64.zip",
+            "url": "https://github.com/Errtu0/Tensgo/releases/download/v0.3.1/tensgo_0.3.1_windows_amd64.zip",
             "bin": [
                 "tensgo.exe"
             ],
-            "hash": "b22b3a8de0321666357ea73d4925c3222fbcd35e4b70d1f8da1aa60811b25b24"
+            "hash": "f61fd9f97998a48967679ca1805239cafc7871606f41e23f1599c8c80c06eea6"
         },
         "arm64": {
-            "url": "https://github.com/Errtu0/Tensgo/releases/download/v0.3.0/tensgo_0.3.0_windows_arm64.zip",
+            "url": "https://github.com/Errtu0/Tensgo/releases/download/v0.3.1/tensgo_0.3.1_windows_arm64.zip",
             "bin": [
                 "tensgo.exe"
             ],
-            "hash": "a2d330632c1d2e7df4d70c72243bd483735481625ffc34bec5406d8142838122"
+            "hash": "27e3e48b74bf894adf0f52137f43f93dbedd1d0aed4bb8656b8c9b91ee622cc8"
         }
     },
     "homepage": "https://tensgo.dev",
