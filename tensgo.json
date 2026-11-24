@@ -1,0 +1,22 @@
+{
+    "version": "0.3.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Errtu0/Tensgo/releases/download/v0.3.0/tensgo_0.3.0_windows_amd64.zip",
+            "bin": [
+                "tensgo.exe"
+            ],
+            "hash": "b22b3a8de0321666357ea73d4925c3222fbcd35e4b70d1f8da1aa60811b25b24"
+        },
+        "arm64": {
+            "url": "https://github.com/Errtu0/Tensgo/releases/download/v0.3.0/tensgo_0.3.0_windows_arm64.zip",
+            "bin": [
+                "tensgo.exe"
+            ],
+            "hash": "a2d330632c1d2e7df4d70c72243bd483735481625ffc34bec5406d8142838122"
+        }
+    },
+    "homepage": "https://tensgo.dev",
+    "license": "MIT",
+    "description": "Autonomous API Stress Testing \u0026 Bottleneck Discovery Engine"
+}
